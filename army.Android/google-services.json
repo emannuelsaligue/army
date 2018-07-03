@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "343978041958",
+    "firebase_url": "https://umbrellasupportumbrellaarmy.firebaseio.com",
+    "project_id": "umbrellasupportumbrellaarmy",
+    "storage_bucket": "umbrellasupportumbrellaarmy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343978041958:android:c1c2bbb896ac0ce4",
+        "android_client_info": {
+          "package_name": "uk.co.umbrellasupport.umbrella.army"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343978041958-l1d0lj6o7ddf6iippi1dglkv8l1sjl2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa_tJ6_W-Soo41cTNknxyKpD8bKqbOZ2A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
